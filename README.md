@@ -64,15 +64,6 @@ All original code and companion material in this repository is licensed under th
 
 The book *Proofs, Arguments, and Zero-Knowledge* remains copyrighted by its respective rights holder(s). This project does not grant rights to the book text, figures, exercises, diagrams, or other third-party materials.
 
-## Contributing
-
-Good first contributions:
-
-* Improve a glossary definition
-* Add a small toy example for a protocol
-* Add clearer diagrams for sum-check, GKR, polynomial commitments, or SNARK composition
-* Add issue reports for confusing explanations
-* Improve mobile layout and accessibility
 
 ## Suggested topics
 
