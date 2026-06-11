@@ -2,17 +2,31 @@
 
 A free, unofficial, single-file study companion for Justin Thaler's *Proofs, Arguments, and Zero-Knowledge*.
 
-This project is built to help students and researchers understand the book without getting lost in notation or protocol details. It does **not** replace the manuscript and does **not** reproduce the book text. Use it alongside the official manuscript.
+PAZK Companion helps students and researchers understand the book without getting lost in notation or protocol details. It provides chapter maps, vocabulary, toy labs, quizzes, notes, progress tracking, and study paths.
+
+This project **does not replace the manuscript** and **does not reproduce the book text**. Use it alongside the official manuscript.
+
+## Live demo
+
+Add your GitHub Pages link here after enabling Pages:
+
+```text
+https://YOUR_USERNAME.github.io/pazk-companion/
+```
 
 ## What it includes
 
-- Chapter-by-chapter navigation for all 19 chapters
-- Section checklists and local progress tracking
-- Vocabulary and notation explanations
-- Protocol intuition cards and concept routes
-- Toy labs for finite fields, fingerprinting, sum-check, Fiat-Shamir, Merkle openings, and QAPs
-- Flashcards, quizzes, notes, study paths, and reader controls
-- Fully static/offline operation: no account, no backend, no tracking
+* Chapter-by-chapter navigation for all 19 chapters
+* Section checklists and local progress tracking
+* Vocabulary and notation explanations
+* Protocol intuition cards and concept routes
+* Toy labs for finite fields, fingerprinting, sum-check, Fiat-Shamir, Merkle openings, and QAPs
+* Flashcards, quizzes, notes, study paths, and reader controls
+* Fully static/offline operation: no account, no backend, no tracking
+
+## Why this exists
+
+Zero-knowledge proofs and SNARKs are hard to learn because the notation, protocols, and reductions stack quickly. PAZK Companion is designed as a practical learning layer: it helps readers build intuition before returning to the formal text.
 
 ## How to use locally
 
@@ -24,34 +38,57 @@ For a local server:
 python3 -m http.server 8080
 ```
 
-Then open `http://localhost:8080`.
+Then open:
 
-## Publish with GitHub Pages
+```text
+http://localhost:8080
+```
 
-1. Create a new GitHub repository.
-2. Upload `index.html` and this `README.md` to the repository root.
-3. Go to **Settings → Pages**.
-4. Set the source to the `main` branch and `/root`.
-5. Open the generated GitHub Pages URL.
+## Deploy with GitHub Pages
 
-## Notes on copyright and attribution
+1. Upload `index.html` and `README.md` to the repository root.
+2. Go to **Settings → Pages**.
+3. Set the source to **Deploy from a branch**.
+4. Choose the `main` branch and `/root`.
+5. Save and open the generated GitHub Pages URL.
 
-This is an unofficial companion for learning. It provides summaries, maps, labs, quizzes, and study tools. It is not affiliated with Justin Thaler or Georgetown University, and it should link users to the official manuscript rather than copying the manuscript.
+## Disclaimer
 
-## Suggested repo description
+PAZK Companion is an independent, unofficial study companion for Justin Thaler's *Proofs, Arguments, and Zero-Knowledge*. It is not affiliated with, endorsed by, or sponsored by Justin Thaler, Georgetown University, or any course staff.
 
-> A free interactive companion for learning Proofs, Arguments, and Zero-Knowledge: maps, vocabulary, toy labs, quizzes, notes, and progress tracking.
+This repository does not host, reproduce, or redistribute the manuscript. It provides original summaries, learning tools, toy examples, and study utilities. Users should consult the official manuscript for the authoritative source.
 
-## Contributing ideas
+## Copyright
+
+All original code and companion material in this repository is licensed under the MIT License unless otherwise stated.
+
+The book *Proofs, Arguments, and Zero-Knowledge* remains copyrighted by its respective rights holder(s). This project does not grant rights to the book text, figures, exercises, diagrams, or other third-party materials.
+
+## Contributing
 
 Good first contributions:
 
-- Improve a glossary definition
-- Add a small toy example for a protocol
-- Add clearer diagrams for sum-check, GKR, polynomial commitments, or SNARK composition
-- Add issue reports for confusing explanations
-- Improve mobile layout and accessibility
+* Improve a glossary definition
+* Add a small toy example for a protocol
+* Add clearer diagrams for sum-check, GKR, polynomial commitments, or SNARK composition
+* Add issue reports for confusing explanations
+* Improve mobile layout and accessibility
+
+## Suggested topics
+
+```text
+zero-knowledge
+zkp
+snarks
+cryptography
+proof-systems
+sumcheck
+fiat-shamir
+finite-fields
+interactive-learning
+education
+```
 
 ## License
 
-Choose a license before publishing. MIT is a common default for small educational tools, but pick the one you are comfortable with.
+MIT License.
