@@ -6,6 +6,13 @@ PAZK Companion helps students and researchers understand the book without gettin
 
 This project **does not replace the manuscript** and **does not reproduce the book text**. Use it alongside the official manuscript.
 
+## Live demo
+
+Try the interactive companion here:
+
+**[Open PAZK Companion](https://katastrofh.github.io/pazk-companion/)**
+
+
 ## What it includes
 
 * Chapter-by-chapter navigation for all 19 chapters
