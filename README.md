@@ -1,3 +1,9 @@
+## Live demo
+
+Try the interactive companion here:
+
+**[Open PAZK Companion](https://katastrofh.github.io/pazk-companion/)**
+
 # PAZK Companion
 
 A free, unofficial, single-file study companion for Justin Thaler's *Proofs, Arguments, and Zero-Knowledge*.
@@ -6,11 +12,6 @@ PAZK Companion helps students and researchers understand the book without gettin
 
 This project **does not replace the manuscript** and **does not reproduce the book text**. Use it alongside the official manuscript.
 
-## Live demo
-
-Try the interactive companion here:
-
-**[Open PAZK Companion](https://katastrofh.github.io/pazk-companion/)**
 
 
 ## What it includes
