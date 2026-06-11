@@ -36,14 +36,6 @@ Then open:
 http://localhost:8080
 ```
 
-## Deploy with GitHub Pages
-
-1. Upload `index.html` and `README.md` to the repository root.
-2. Go to **Settings → Pages**.
-3. Set the source to **Deploy from a branch**.
-4. Choose the `main` branch and `/root`.
-5. Save and open the generated GitHub Pages URL.
-
 ## Disclaimer
 
 PAZK Companion is an independent, unofficial study companion for Justin Thaler's *Proofs, Arguments, and Zero-Knowledge*. It is not affiliated with, endorsed by, or sponsored by Justin Thaler, Georgetown University, or any course staff.
