@@ -6,14 +6,6 @@ PAZK Companion helps students and researchers understand the book without gettin
 
 This project **does not replace the manuscript** and **does not reproduce the book text**. Use it alongside the official manuscript.
 
-## Live demo
-
-Add your GitHub Pages link here after enabling Pages:
-
-```text
-https://YOUR_USERNAME.github.io/pazk-companion/
-```
-
 ## What it includes
 
 * Chapter-by-chapter navigation for all 19 chapters
